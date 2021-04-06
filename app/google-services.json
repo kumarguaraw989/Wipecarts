@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230610706819",
+    "project_id": "wipecarts",
+    "storage_bucket": "wipecarts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230610706819:android:16ea2d56bf5ebecf3f56b6",
+        "android_client_info": {
+          "package_name": "com.ecommerce.wipecart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230610706819-73f95p7rd88b20t299j4d87u7oj240c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKRzy7gyRA887mV859PPbE6TKOsqqwBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230610706819-73f95p7rd88b20t299j4d87u7oj240c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
