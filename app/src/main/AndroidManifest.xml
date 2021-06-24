@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ecommerce.wipecart">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -12,7 +15,8 @@
         android:usesCleartextTraffic="true">
         <activity
             android:name=".ui.DashboardActivity"
-            android:exported="true"></activity>
+            android:exported="true"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".ui.LoginActivity"
             android:screenOrientation="portrait" />

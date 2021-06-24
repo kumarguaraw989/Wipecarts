@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_order"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="@string/order"/>
+
+    <item
+        android:id="@+id/navigation_goout"
+        android:icon="@drawable/ic_footsteps_silhouette_variant"
+        android:title="@string/GoOut"/>
+
+    <item
+        android:id="@+id/navigation_pro"
+        android:icon="@drawable/ic_crown__1_"
+        android:title="@string/Pro"/>
+    <item
+        android:id="@+id/navigation_nutrition"
+        android:icon="@drawable/ic_apple"
+        android:title="@string/nutrition"/>
+
+</menu>

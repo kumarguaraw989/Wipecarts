@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Wipecart</string>
+    <string name="order">Order</string>
+    <string name="GoOut">Go Out</string>
+    <string name="Pro">Pro</string>
+    <string name="nutrition">Nutrition</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
